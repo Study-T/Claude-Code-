@@ -1,0 +1,4 @@
+# Ignore everything except the workflow guide
+*
+!.gitignore
+!Claude_Code_企业级工作流完全指南.md
